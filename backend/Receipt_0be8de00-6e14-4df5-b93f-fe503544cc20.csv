@@ -1,0 +1,12 @@
+INPUT product list 
+----------------------------------------
+1 imported chocolate at 10.0
+1 imported perfume at 47.5
+
+----------------------------------------
+OUTPUT 
+----------------------------------------
+1 imported chocolate: 10.5 
+1 imported perfume: 54.65 
+Sales Taxes: 7.65 
+Total: 65.15 

@@ -1,0 +1,16 @@
+INPUT product list 
+----------------------------------------
+1 imported bottle of perfume at 27.99
+1 perfume at 18.99
+1 headache Pills at 9.75
+1 imported box Of Chocolates at 11.25
+
+----------------------------------------
+OUTPUT 
+----------------------------------------
+1 imported bottle of perfume: 32.19 
+1 perfume: 20.89 
+1 headache Pills: 9.75 
+1 imported box Of Chocolates: 11.8 
+Sales Taxes: 6.65 
+Total: 74.63 
